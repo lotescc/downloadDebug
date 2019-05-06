@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://app.lotes.com.cn:9999/lotes/download/debug/workAssistant.ipa</string>
+					<string>http://app.lotes.com.cn:8999/lotes/download/workAssistant.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://app.lotes.com.cn:9999/lotes/download/debug/displayIOS.png</string>
+					<string>http://app.lotes.com.cn:8999/lotes/download/displayIOS.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://app.lotes.com.cn:9999/lotes/download/debug/fullSizeIOS.png</string>
+					<string>http://app.lotes.com.cn:8999/lotes/download/fullSizeIOS.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>cc.lotes.workAssistant</string>
 				<key>bundle-version</key>
-				<string>1.4.3</string>
+				<string>2.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
